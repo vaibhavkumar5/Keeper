@@ -7,7 +7,7 @@ let year = d.getFullYear();
 function Footer() {
     return(
         <div className="footer">
-            <p> copyright hi @ {year} </p>
+            <p> copyright @ {year} </p>
         </div>
     )
 }
